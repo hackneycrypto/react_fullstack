@@ -1,6 +1,9 @@
 # react_fullstack
 
-steps to run the code
+- This project setup was forked from Jelo Rivera (<https://github.com/jelorivera08/react_fullstack)>
+- See guide at <https://medium.com/javascript-in-plain-english/full-stack-mongodb-react-node-js-express-js-in-one-simple-app-6cc8ed6de274>
+
+Steps to run the code
 
  1. cd backend
  2. npm install
@@ -9,4 +12,4 @@ steps to run the code
  5. npm install
  6. cd ..
  7. npm install
- 7. npm start
+ 8. npm start
